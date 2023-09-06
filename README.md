@@ -2,7 +2,7 @@
 - 🏵️ You can check my personal website [here](https://hebbs.netlify.app/)
 
 ## My skills 💻 
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
