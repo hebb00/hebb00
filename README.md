@@ -1,5 +1,5 @@
-# Hi, I'm Hebbs
-- 🏵️ You can check my personal website [here](https://hebbs.netlify.app/)
+# Hi, I'm Hebbs.
+🏵️ You can check my personal website [here](https://hebbs.netlify.app/)
 
 ## My skills 💻 
 <table><tr><td valign="top" width="33%">
