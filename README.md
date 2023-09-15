@@ -1,5 +1,6 @@
 # Hi, I'm Hebbs.
-🏵️ You can check my personal website [here](https://hebbs.netlify.app/)
+🏵️ You can check my personal website [here](https://hebbs.netlify.app/).
+<br/>
 💫 I enjoy participating in open-source projects.
 
 ## My skills 💻 
