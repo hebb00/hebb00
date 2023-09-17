@@ -1,5 +1,5 @@
 # Hi, I'm Hebbs.<br/>
-💫 I enjoy participating in open-source projects.<br/>
+💫 I enjoy contributing to open-source projects.<br/>
 🏵️ You can check my personal website [here](https://hebbs.netlify.app/).
 
 
