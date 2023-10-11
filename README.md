@@ -1,6 +1,7 @@
 # Hi, I'm Hebbs.
 💫 I enjoy contributing to open-source projects.<br/>
-🏵️ You can check my personal website [here](https://hebbs.netlify.app/).
+🏵️ You can check my personal website [here](https://hebbs.netlify.app/).<br/>
+🌀 I’m currently learning Golang.
 
 
 ## My skills 💻 
