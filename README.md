@@ -1,4 +1,4 @@
-# Hi, I'm Hebbs.
+# Hi, I'm Hebbs :ghost:
 💫 I enjoy contributing to open-source projects.<br/>
 🏵️ You can check my personal website [here](https://hebbs.netlify.app/).<br/>
 🌀 I’m currently learning Go.
