@@ -33,7 +33,10 @@
 </td></tr></table>  
 
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hebb00&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebb00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
