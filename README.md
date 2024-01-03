@@ -1,6 +1,7 @@
 # :wave: Hi, I'm Hebbs.
 💫 I enjoy contributing to open-source projects.<br/>
 🏵️ You can check my personal website [here](https://hebbs.netlify.app/).<br/>
+:writing_hand: I'm currently studying go.
 
 
 ## My skills 💻 
