@@ -1,5 +1,5 @@
 # Hi, I'm Hebbs.
-💫 I enjoy contributing to open-source projects.<br/>
+💫 I enjoy contributing to open-source projects and love solving puzzles on leetcode<br/>
 🏵️ You can check my personal website [here](https://hebbs.netlify.app/).<br/>
 
 
